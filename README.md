@@ -3,6 +3,7 @@
 1. Developed using Kotlin.
 2. Used Android architectural components such as ViewModel, LiveData, DataBinding by following MVVM.
 3. This app uses the open API https://api.urbandictionary.com to search the given word in the remote Urban Dictionary.
+4. Used Kotlin Coroutines for performing background tasks and Spring Rest for Android to make network calls.
 
 App flow:
 1. Enter the word to search in Search View.
